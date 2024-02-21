@@ -2,7 +2,6 @@
 //  VolunteerManagerTests.swift
 //  VolunteerManagerTests
 //
-//  Created by Paul Inventado on 2/23/22.
 //
 
 import XCTest
